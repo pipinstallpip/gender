@@ -2,12 +2,13 @@
 
 Gender gives you the opportunity to see the gender and nationality of a name
 
-## Dependencies
+## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to get Gender's dependencies .
 
 ```bash
 pip3 install sqlalchemy
+git clone https://github.com/pipinstallpip/gender.git
 ```
 
 ## Usage
